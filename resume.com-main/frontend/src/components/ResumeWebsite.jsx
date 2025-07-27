@@ -199,7 +199,10 @@ const ResumeWebsite = () => {
               </div>
             </div>
             <div className="flex justify-center space-x-4 mb-8">
-         <a href="mailto:khomriichuk@gmail.com" target="_blank" rel="noopener noreferrer">
+         <a href="#" onClick={(e) => {
+  e.preventDefault();
+  window.location = "mailto:" + "khomriichuk" + "@" + "gmail.com";
+}}>
 
   <Button variant="outline" size="lg" className="hover:bg-blue-50 hover:border-blue-300">
     <Mail size={18} className="mr-2" />
