@@ -54,7 +54,7 @@ const ResumeWebsite = () => {
   };
 
   const skills = [
-    { name: 'Python', level: 94, color: 'bg-blue-500' },
+    { name: 'Python', level: 100, color: 'bg-blue-500' },
     { name: 'C++', level: 100, color: 'bg-purple-500' },
     { name: 'JavaScript', level: 88, color: 'bg-yellow-500' },
     { name: 'HTML', level: 100, color: 'bg-orange-500' },
