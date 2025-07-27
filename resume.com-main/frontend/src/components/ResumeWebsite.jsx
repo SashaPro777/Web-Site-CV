@@ -70,7 +70,7 @@ const ResumeWebsite = () => {
       company: 'Local Delivery Service',
       location: 'Ukraine',
       period: '2018 - 2021',
-      description: 'Managed timely delivery of packages and documents across the city. Developed strong time management and customer service skills.',
+      description: 'Managed timely delivery of packages . Developed strong time management and customer service skills.',
       skills: ['Time Management', 'Customer Service', 'Navigation', 'Problem Solving']
     },
     {
