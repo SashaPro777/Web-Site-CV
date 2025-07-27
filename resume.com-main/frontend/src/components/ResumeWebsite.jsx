@@ -493,7 +493,7 @@ const ResumeWebsite = () => {
           </div>
           <Separator className="bg-gray-700 mb-8" />
           <p className="text-gray-400">
-            © 2021 Sasha Khomriichuk. ☕
+            Sasha Khomriichuk. ☕
           </p>
         </div>
       </footer>
