@@ -194,7 +194,7 @@ const ResumeWebsite = () => {
                 </div>
                 <div className="flex items-center space-x-2">
                   <Globe size={18} />
-                  <span>24 years old</span>
+                  <span>25 years old</span>
                 </div>
               </div>
             </div>
@@ -486,14 +486,14 @@ const ResumeWebsite = () => {
 </a>
 
               <Button onClick={handleDownloadResume} className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700">
-                <Download size={18} className="mr-2" />
-                Download Resume 
+                <Download size={18} className="mr-2"/>
+                Download Resume
                 </Button>
             </div>
           </div>
           <Separator className="bg-gray-700 mb-8" />
           <p className="text-gray-400">
-            Sasha Khomriichuk. ☕   
+            Sasha Khomriichuk.☕   
           </p>
         </div>
       </footer>
