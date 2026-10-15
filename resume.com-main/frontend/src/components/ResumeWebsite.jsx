@@ -488,6 +488,7 @@ const ResumeWebsite = () => {
               <Button onClick={handleDownloadResume} className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700">
                 <Download size={18} className="mr-2" />
                 Download Resume 
+                </Button>
             </div>
           </div>
           <Separator className="bg-gray-700 mb-8" />
