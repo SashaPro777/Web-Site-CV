@@ -185,10 +185,9 @@ const ResumeWebsite = () => {
                 Sasha Khomriichuk
               </h1>
               <p className="text-xl md:text-2xl text-gray-600 font-medium mb-4">
-                Front-End Developer
+                Front-End Developer  Hello
               </p>
-              <div className="flex items-center justify-center space-x-6 text-gray-500 mb-8">
-                <div className="flex items-center space-x-2">
+              <div className="flex items-center justify-center space-x-2">
                   <MapPin size={18} />
                   <span>Ukraine</span>
                 </div>
