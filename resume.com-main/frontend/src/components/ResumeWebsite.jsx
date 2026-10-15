@@ -54,14 +54,14 @@ const ResumeWebsite = () => {
   };
 
   const skills = [
-    { name: 'Python', level: 100, color: 'bg-blue-500' },
-    { name: 'C++', level: 100, color: 'bg-purple-500' },
-    { name: 'JavaScript', level: 88, color: 'bg-yellow-500' },
-    { name: 'HTML', level: 100, color: 'bg-orange-500' },
-    { name: 'CSS', level: 100, color: 'bg-cyan-500' },
-    { name: 'React', level: 85, color: 'bg-blue-400' },
-    { name: 'Node.js', level: 80, color: 'bg-green-500' },
-    { name: 'Git', level: 88, color: 'bg-red-500' }
+    { name: 'Python', level: 70, color: 'bg-blue-500' },
+    { name: 'C++', level: 65, color: 'bg-purple-500' },
+    { name: 'JavaScript', level: 60, color: 'bg-yellow-500' },
+    { name: 'HTML', level: 92, color: 'bg-orange-500' },
+    { name: 'CSS', level: 75, color: 'bg-cyan-500' },
+    { name: 'React', level: 35, color: 'bg-blue-400' },
+    { name: 'Node.js', level: 65, color: 'bg-green-500' },
+    { name: 'Git', level: 45, color: 'bg-red-500' }
   ];
 
   const experiences = [
@@ -487,13 +487,12 @@ const ResumeWebsite = () => {
 
               <Button onClick={handleDownloadResume} className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700">
                 <Download size={18} className="mr-2" />
-                Download Resume
-              </Button>
+                Download Resume sfsfsdwdsvvv
             </div>
           </div>
           <Separator className="bg-gray-700 mb-8" />
           <p className="text-gray-400">
-            Sasha Khomriichuk. ☕
+            Sasha Khomriichuk. ☕   
           </p>
         </div>
       </footer>
