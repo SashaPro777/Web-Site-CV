@@ -59,7 +59,7 @@ const ResumeWebsite = () => {
     { name: 'JavaScript', level: 60, color: 'bg-yellow-500' },
     { name: 'HTML', level: 85, color: 'bg-orange-500' },
     { name: 'CSS', level: 75, color: 'bg-cyan-500' },
-    { name: 'React', level: 35, color: 'bg-blue-400' },
+    { name: 'React', level: 55, color: 'bg-blue-400' },
     { name: 'Node.js', level: 65, color: 'bg-green-500' },
     { name: 'Git', level: 45, color: 'bg-red-500' }
   ];
