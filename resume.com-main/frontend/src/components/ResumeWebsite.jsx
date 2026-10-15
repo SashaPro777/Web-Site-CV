@@ -190,7 +190,7 @@ const ResumeWebsite = () => {
               <div className="flex items-center justify-center space-x-6 text-gray-500 mb-8">
                 <div className="flex items-center space-x-2">
                   <MapPin size={18} />
-                  <span>United Kingdom</span>
+                  <span>Ukraine</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Globe size={18} />
