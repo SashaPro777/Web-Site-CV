@@ -233,8 +233,9 @@ const ResumeWebsite = () => {
 </a>
 
 
-
+       
             </div>
+        <section>
             <div className="animate-bounce">
               <ChevronDown size={24} className="mx-auto text-gray-400" />
             </div>
