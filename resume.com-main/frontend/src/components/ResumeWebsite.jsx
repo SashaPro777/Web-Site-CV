@@ -251,7 +251,7 @@ const ResumeWebsite = () => {
           <Card className="shadow-xl hover:shadow-2xl transition-all duration-300 border-0 bg-white/80 backdrop-blur-sm">
             <CardContent className="p-8">
               <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                I'm a passionate 24-year-old front-end developer from the Ukraine with a strong foundation in modern web technologies. 
+                I'm a passionate 25-year-old front-end developer from the Ukraine with a strong foundation in modern web technologies. 
                 My journey in tech combines formal education in Computer Systems and Networks with hands-on experience in various 
                 programming languages and frameworks.
               </p>
